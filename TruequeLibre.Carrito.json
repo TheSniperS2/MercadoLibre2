@@ -1,0 +1,21 @@
+[{
+  "_id": {
+    "$oid": "665a6ecafcb40c155431b429"
+  },
+  "user_id": "user1",
+  "productos": [
+    {
+      "producto_id": "prod001",
+      "nombre": "Wii",
+      "cantidad": "1",
+      "precio": "90$"
+    },
+    {
+      "producto_id": "prod002",
+      "nombre": "switch",
+      "cantidad": "1",
+      "precio": "120$"
+    }
+  ],
+  "fecha_creacion": "2024-05-31"
+}]

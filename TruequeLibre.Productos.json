@@ -1,0 +1,66 @@
+[{
+  "_id": {
+    "$oid": "6664dbc2216c9a2d9493f619"
+  },
+  "nombreProducto": "Snorlax",
+  "precio": "300",
+  "descripcion": "MEO POKEMON X2",
+  "categoria": "Pokemon",
+  "stock": "12",
+  "imagen": "https://i.imgur.com/64IWl8Y.jpg"
+},
+{
+  "_id": {
+    "$oid": "6664eb9df3a9183cc15b16f7"
+  },
+  "nombreProducto": "Gengar",
+  "precio": "100",
+  "descripcion": "MEO POKEMON",
+  "categoria": "Pokemon",
+  "stock": 20,
+  "imagen": "https://i.imgur.com/6IlU6qG.png"
+},
+{
+  "_id": {
+    "$oid": "6664ebbbf3a9183cc15b16f8"
+  },
+  "nombreProducto": "Pikachu",
+  "precio": "200",
+  "descripcion": "MEO POKEMON X3",
+  "categoria": "Pokemon",
+  "stock": 31,
+  "imagen": "https://i.imgur.com/ShjdgHg.png"
+},
+{
+  "_id": {
+    "$oid": "666512ee7670122bdf143f40"
+  },
+  "nombreProducto": "Eevee",
+  "precio": "50",
+  "descripcion": "wtf",
+  "categoria": "Pokemon",
+  "stock": "20",
+  "imagen": "https://i.imgur.com/FIgIe6c.jpg"
+},
+{
+  "_id": {
+    "$oid": "6665f51959bfc21655cfd4f6"
+  },
+  "nombreProducto": "DATEBAYO",
+  "precio": "100",
+  "descripcion": "wewe",
+  "categoria": "Anime",
+  "stock": 30,
+  "imagen": "https://i.imgur.com/VOZbUwM.png"
+},
+{
+  "_id": {
+    "$oid": "66661707e33ecfcb9152d766"
+  },
+  "nombreProducto": "CHINCHILLA",
+  "precio": "500",
+  "descripcion": "HAPPY DAY",
+  "categoria": "Animal",
+  "stock": "40",
+  "imagen": "https://i.imgur.com/0oyBiK7.png"
+}]
